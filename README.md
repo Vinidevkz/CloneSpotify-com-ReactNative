@@ -2,8 +2,7 @@ Olá, me chamo Vinicius Eduardo e esta é uma aplicação feita com React Native
 
 Ao entrar na aplicação, você será apresentado a uma tela de login que pedirá um usuário e uma senha, aqui estão os dados:
 
-Usuário: User
-Senha: 123
+Usuário: User - Senha: 123
 
 (Atenção: não poderá haver espaços nem quaisquer caracteres a mais do que os apresentados, do contrário a tela apresentará um erro.)
 
